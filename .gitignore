@@ -1,0 +1,11 @@
+.vs
+*.txt
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.o
+Emscripten_RVO2.cpp
+example.js
+rvo_asm.js
+rvo_asm.js.mem
